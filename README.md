@@ -1,5 +1,7 @@
 # PEG, an Implementation of a Packrat Parsing Expression Grammar in Go
 
+Forked to make Pretty a flag option and other usability changes.
+
 [![GoDoc](https://godoc.org/github.com/pointlander/peg?status.svg)](https://godoc.org/github.com/pointlander/peg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pointlander/peg)](https://goreportcard.com/report/github.com/pointlander/peg)
 [![Coverage](https://gocover.io/_badge/github.com/pointlander/peg)](https://gocover.io/github.com/pointlander/peg)
